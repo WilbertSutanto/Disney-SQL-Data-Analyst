@@ -47,12 +47,28 @@
      - I obtained the customer reviews for Netflix, Disney, Hulu streaming services through web scraping
      - The website where I got the data from is https://www.consumeraffairs.com
      - Specific links are: https://www.consumeraffairs.com/entertainment/netflix.html, https://www.consumeraffairs.com/online/hulu.html
-       and 
+       and https://www.consumeraffairs.com/entertainment/disney-plus.html 
+     - I also obtained statistics and informtion about different states from the Statista website and just downloaded the relevant datasets
     
     b. Characteristics
+     - Accessible to all users
+     - well format content
+     - planned information architecture 
+     - Clean code 
+     - Security
+     - Data integrity 
+     - Supports query language 
     
 5. Notebooks
     a. Links to the notebook and a description of the notebook's purpose
     
 6. Future Improvements
     a. Identify 1-2 improvements if you had more time
+    - I would try and scrape more customer reviews on Disney Plus from various wesites in order to have a larger data set.
+    - Including reviews from other countries other than the US 
+    - I had issues with trying to convert the date datatype from a TEXT to a DATE. 
+   
+    
+    
+    
+    
