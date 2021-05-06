@@ -57,7 +57,7 @@
      - Accessible to all users
      - well format content
      - planned information architecture 
-     - Clean code 
+     - Clean Database design
      - Security
      - Data integrity 
      - Supports query language 
@@ -65,6 +65,11 @@
 5. Notebooks
 
     a. Links to the notebook and a description of the notebook's purpose
+    
+    - http://localhost:8889/notebooks/notebooks/Wilbert_Sutanto_Project_Web_Scraping_Disney_Streaming.ipynb#
+    - This is the jupyter notebook file in ipnyb format that shows how I webscraped customer reviews for Disney's streaming service.
+
+    
     
 6. Future Improvements
 
