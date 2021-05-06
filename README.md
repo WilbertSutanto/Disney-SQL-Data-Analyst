@@ -7,11 +7,13 @@
 2. Project Objective
 
     a. What problem are you solving?
+    
        - Finding ways to improve Disney Streaming service offerings
        - Improve marketing strategies in different states accross the US
        - Increase amount of customers that use the Disney+ streaming service 
        
     b. How are you solving this problem?
+    
        - Looking at customer reviews written for Disney+ streaming services, we are able to look at the review and rating given by customers.
          This way, the company can use the customer feedback to improve their service offering
        - The specific state location of customers writing the reviews will indicate the customers location,
