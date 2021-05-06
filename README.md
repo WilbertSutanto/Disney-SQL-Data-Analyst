@@ -33,10 +33,22 @@
      
     b. Briefly explain how the project is related to the job posting
     
-    
-    
+    - The project focuses on web scraping customer reviews for Disney's streaming service. In addition,
+      I also webscraped the customer reviews for the two most populer streaming service such as Hulu and 
+      Netflix. This is because Disney's streaming service is realtively new and only has a small amount of reviews. 
+      Information from the customer reviews of three streaming service will be used to determine the amount of 
+      which state has the highest amount of customers that have paid streaming services. Also, statistics such as 
+      average income, internet access, household size, and teenage demographic will be obtained for each state. 
+      This way, I can determine if certain statistics influence the amount of streaming customers in a particular state.
+      These information can be helpful for the disney team to analyse to better improve its service and marketing strategy. 
+       
 4. Data
     a. Source
+     - I obtained the customer reviews for Netflix, Disney, Hulu streaming services through web scraping
+     - The website where I got the data from is https://www.consumeraffairs.com
+     - Specific links are: https://www.consumeraffairs.com/entertainment/netflix.html, https://www.consumeraffairs.com/online/hulu.html
+       and 
+    
     b. Characteristics
     
 5. Notebooks
