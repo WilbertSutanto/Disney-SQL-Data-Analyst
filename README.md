@@ -1,6 +1,7 @@
 # SQL-Project README file 
 
 1. Project Name
+
    Disney SQL Data Analyst
 
 2. Project Objective
@@ -19,6 +20,7 @@
          we will better understand factors that influence the use of online paid streaming services.
     
 3. Job Description
+
     a. 1 paragraph explaining the company, title, and job description for the job posting you selected
     
       - The company is Disney, specificaly the Disney media and Entertainment distribution business segment. 
@@ -43,6 +45,7 @@
       These information can be helpful for the disney team to analyse to better improve its service and marketing strategy. 
        
 4. Data
+
     a. Source
      - I obtained the customer reviews for Netflix, Disney, Hulu streaming services through web scraping
      - The website where I got the data from is https://www.consumeraffairs.com
@@ -60,9 +63,11 @@
      - Supports query language 
     
 5. Notebooks
+
     a. Links to the notebook and a description of the notebook's purpose
     
 6. Future Improvements
+
     a. Identify 1-2 improvements if you had more time
     - I would try and scrape more customer reviews on Disney Plus from various wesites in order to have a larger data set.
     - Including reviews from other countries other than the US 
